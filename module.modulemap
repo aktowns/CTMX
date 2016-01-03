@@ -1,0 +1,5 @@
+module CTMX [system] {
+  header "/usr/include/tmx.h"
+  link "tmx"
+  export *
+}
